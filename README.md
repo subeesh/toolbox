@@ -19,3 +19,4 @@
   * [CSS3](https://packagecontrol.io/packages/CSS3)
   * [Babel](https://packagecontrol.io/packages/Babel)
   * [Babel Snippets](https://packagecontrol.io/packages/Babel%20Snippets)
+  * [React ES6 Snippets](https://packagecontrol.io/packages/React%20ES6%20Snippets)
