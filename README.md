@@ -9,7 +9,8 @@
 3. **Plugins**
   * [Package Control](https://packagecontrol.io/packages/Package%20Control)
   * [SideBar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
-  * [Sublime Linter](https://packagecontrol.io/packages/SublimeLinter)
+  * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
+  * [SublimeLinter ESLint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
   * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
   * [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete)
   * [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel)
