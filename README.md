@@ -21,3 +21,12 @@
   * [Babel](https://packagecontrol.io/packages/Babel)
   * [Babel Snippets](https://packagecontrol.io/packages/Babel%20Snippets)
   * [React ES6 Snippets](https://packagecontrol.io/packages/React%20ES6%20Snippets)
+4. **Tab and whitespace handling**
+  
+  ```javascript
+  // Indent using spaces, 2 spaces ber indent by default, clean up extra whitespaces on save
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_automatic_white_space": true,
+  "trim_trailing_white_space_on_save": true,
+```
